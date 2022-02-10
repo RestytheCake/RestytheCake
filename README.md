@@ -1,15 +1,9 @@
-### Morgan
+# Morgan
 
-## Small Coder who likes coding many things
-
-# Languages:
-**Python, Javascript, Dart**
-
-# Frameworks:
-**Django, Angular, Flutter**
-
-# Current Working on Minecraft Mod
-
+- 🔭 I’m currently working on a Minecraft Mod
+- 🌱 I’m currently learning small pieces of Java
+- 🤔 I’m looking for help to make my Mod better any help is helpful
+- ⚡ Fun fact: I Like the Cold 
 <!--
 **RestytheCake/RestytheCake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

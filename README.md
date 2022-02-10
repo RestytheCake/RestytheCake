@@ -1,4 +1,14 @@
-### Hi there 👋
+### Morgan
+
+## Small Coder who likes coding many things
+
+# Languages:
+**Python, Javascript, Dart**
+
+# Frameworks:
+**Django, Angular, Flutter**
+
+# Current Working on Minecraft Mod
 
 <!--
 **RestytheCake/RestytheCake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

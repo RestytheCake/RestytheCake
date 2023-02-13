@@ -1,9 +1,9 @@
 # Morgan
 
-- 🔭 I’m currently working on a ~~Minecraft Mod
-- 🌱 I’m currently learning ~~small pieces of Java
-- 🤔 ~~I’m looking for help to make my Mod better any help is helpful
-- 🔧 Working on Re:ED   _Remake of Elemtal Dungeon
+- 🔭 I’m currently working on a ~~Minecraft Mod~~
+- 🌱 I’m currently learning ~~small pieces of Java~~
+- 🤔 ~~I’m looking for help to make my Mod better any help is helpful~~
+- 🔧 Working on Re:ED   _Remake of Elemtal Dungeon_
 - ☯  I don't, don't ask me
 - ⚡ Fun fact: I Like the Cold 
 <!--

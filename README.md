@@ -1,8 +1,10 @@
 # Morgan
 
-- 🔭 I’m currently working on a Minecraft Mod
-- 🌱 I’m currently learning small pieces of Java
-- 🤔 I’m looking for help to make my Mod better any help is helpful
+- 🔭 I’m currently working on a ~~Minecraft Mod
+- 🌱 I’m currently learning ~~small pieces of Java
+- 🤔 ~~I’m looking for help to make my Mod better any help is helpful
+- 🔧 Working on Re:ED   _Remake of Elemtal Dungeon
+- ☯  I don't, don't ask me
 - ⚡ Fun fact: I Like the Cold 
 <!--
 **RestytheCake/RestytheCake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

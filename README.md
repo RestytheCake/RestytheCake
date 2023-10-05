@@ -1,5 +1,11 @@
-# Morgan
+# Arthur Ditte
 
+- I am in a school and working on making a website.
+- Trying my best to make the best Site of all (;
+- I am not good with Html and Css
+
+-This is Past
+-
 - 🔭 I’m currently working on a ~~Minecraft Mod~~
 - 🌱 I’m currently learning ~~small pieces of Java~~
 - 🤔 ~~I’m looking for help to make my Mod better any help is helpful~~

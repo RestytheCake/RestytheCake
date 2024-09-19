@@ -1,4 +1,4 @@
-# Arthur Ditte
+# RestytheCake
 
 - I am in a school and working on making a website.
 - Trying my best to make the best Site of all (;

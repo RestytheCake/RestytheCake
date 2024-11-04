@@ -1,5 +1,7 @@
 # RestytheCake
 
+[![Resty's GitHub stats](https://github-readme-stats-three-snowy-87.vercel.app/api?username=RestytheCake)](https://github.com/RestytheCake/github-readme-stats)
+
 - I am in a school and working on making a website.
 - Trying my best to make the best Site of all (;
 - I am not good with Html and Css
